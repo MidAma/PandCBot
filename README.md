@@ -5,10 +5,10 @@
 ---
 ## <a id="menu"></a>🔱 » Menu
 
-- [☄・Deploys](#deploys)
 - [🔰・Features](#features)
 - [🎉・Setting up](#setup)
 - [⚙・Config](#config)
+- [❤・Discord](https://discord.gg/JB77nrdkdb)
 
 ## <a id="features"></a>🛠 » Features
 
