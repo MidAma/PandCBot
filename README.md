@@ -1,5 +1,5 @@
 <h1 align="center">
- 🛡Protect Bot⚙
+ 🛡Play&Chill Bot⚙
 </h1>
 
 ---
